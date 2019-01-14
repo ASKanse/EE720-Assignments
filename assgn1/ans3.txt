@@ -1,0 +1,51 @@
+#mapping
+
+[('a', 'x'),
+('b', 'd'),
+('c', 'a'),
+('d', 'g'),
+('e', 'y'),
+('f', 'n'),
+('g', 't'),
+('h', 'c'),
+('i', 'w'),
+('j', 'm'),
+('k', 'u'),
+('l', 's'),
+('m', 'e'),
+('n', 'p'),
+('o', 'l'),
+('p', 'h'),
+('q', 'q'),
+('r', 'o'),
+('s', 'v'),
+('t', 'i'),
+('u', 'f'),
+('v', 'b'),
+('w', 'r'),
+('x', 'z'),
+('y', 'j'),
+('z', 'k')]
+
+#decode text
+
+every generation laughs at the old fashions, but follows religiously the new. henry david thoreau
+time and space are modes by which we think and not conditions in which we live. albert einstein
+i am patient with stupidity but not with those who are proud of it. edith sitwell
+insanity doing the same thing over and over again and expecting different results. albert einstein
+advice is what we ask for when we already know the answer but wish we didnt. erica jong
+dream as if youll live forever. live as if youll die today. james dean
+the less you know, the more you believe. bono
+too bad the only people who know how to run the country are busy driving cabs and cutting hair. george burns
+an optimist stays up to see the new year in. a pessimist waits to make sure the old one leaves. bill vaughan
+too many people are thinking of security instead of opportunity. they seem more afraid of life than death. james f. byrnes
+there is a great difference between worry and concern. a worried person sees a problem, and a concerned person solves a problem. harold stephens
+the more you know, the more you realise how much you dont know  the less you know, the more you think you know. david t. freeman
+if you are not criticized, you may not be doing much. donald h. rumsfeld
+careful. we dont want to learn from this. bill watterson
+do not confuse motion and progress. a rocking horse keeps moving but does not make any progress. alfred a. montapert
+the whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. bertrand russell
+a person who trusts no one cant be trusted. jerome blattner
+no matter what side of the argument you are on, you always find people on your side that you wish were on the other. jascha heifetz
+i have enough money to last me the rest of my life, unless i buy something. jackie mason
+procrastination is the art of keeping up with yesterday. don marquis
